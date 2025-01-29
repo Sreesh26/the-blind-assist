@@ -3,7 +3,7 @@ The "Currency Detection for the Visually Impaired" project aims to assist visual
 
 ## How to Use the Currency Detection for the Visually Impaired App
 - Firstly clone the repository. <br>
-`git clone https://github.com/OMKAR-KALEPU/the-blind-assist.git`
+`git clone https://github.com/Sreesh26/the-blind-assist.git`
 
 - Download the [Dataset](https://www.kaggle.com/datasets/vishalmane109/indian-currency-note-images-dataset-2020).
 
